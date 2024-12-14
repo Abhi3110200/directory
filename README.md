@@ -4,6 +4,8 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
 ## Get started
 
+Git Clone https://github.com/Abhi3110200/directory
+
 1. Install dependencies
 
    ```bash
@@ -14,6 +16,13 @@ This is an [Expo](https://expo.dev) project created with [`create-expo-app`](htt
 
    ```bash
     npx expo start
+   ```
+
+3. Explanation of the code
+
+   ```bash
+      i have used the expo go for the set up the project.
+      Add a filter to sort users by name or email. Use react-native-raw-bottom-sheet for a bottom modal.
    ```
 
 In the output, you'll find options to open the app in a
