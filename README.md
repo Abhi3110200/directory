@@ -23,6 +23,9 @@ Git Clone https://github.com/Abhi3110200/directory
    ```bash
       i have used the expo go for the set up the project.
       Add a filter to sort users by name or email. Use react-native-raw-bottom-sheet for a bottom modal.
+
+      In google drive i have uploaded an apk of the project
+      https://drive.google.com/file/d/173UNoJRkrKL9tY7MYHImSzoUxvXbHjkU/view?usp=sharing
    ```
 
 In the output, you'll find options to open the app in a
